@@ -20,7 +20,7 @@ densely populated areas, residential districts, large-scale manufacturers and ot
 This was made from the perspective of any organization choosing to automate their process of tracking visitors who aren't wearing masks.
 
 
-<h3>Further Details <h3>
+<h3>Further Details </h3>
 <p> Epochs ran during development : 100 
 Accuracy obtained : 99.94%
 Ideally,during production, the epochs should be close to 1000 to train the model better.<p>
