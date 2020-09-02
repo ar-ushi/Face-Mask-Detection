@@ -2,7 +2,7 @@
 
 
 <div align= "center">
-  <h4>Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in real-time video streams and send an email if a visitor is found not wearing a mask</h4>
+  <h4>Face Mask Detection system built with OpenCV, Keras/TensorFlow using fundamental Deep Learning and Computer Vision in order to detect face masks in real-time video streams and send an email if a visitor is found not wearing a mask</h4>
 </div>
 
 <div>
