@@ -9,7 +9,6 @@
 <h3> Additional Features </h3>
 <h5>
 The model is made in such a way that it is directly integrateable with any facility. Using the smtplib and tkinter library in python,the stream automatically shows a pop-up in case a visitor is detected with no mask in addition to a mail sent to the facility's IT department with details regarding the person.
-This can be further optimized with automating the code in such a way that a snapshot is clicked every time a person is detected not wearing a mask which can,then,be sent to the facility too.
 </h5>
 </div>
 
